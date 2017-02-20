@@ -1,0 +1,50 @@
+Annapurna I
+8078
+Annapurna II
+7937
+Broad Peak
+8047
+Central Peak
+8011
+Cho Oyu
+8189
+Dhaulagiri
+8172
+Disteghil Sar
+7885
+Gasherbrum
+8068
+Gosainthan
+8012
+Gurla Mandhata
+7728
+Gyachung Kang
+7897
+Himalchuli
+7864
+Kamet
+7756
+Kangchenjunga
+8598
+Kungur
+7719
+Makalu I
+8481
+Manaslu I
+8156
+Masherbrum
+7821
+Mount Everest
+8850
+Namcha Barwa
+7756
+Nanda Devi
+7817
+Nanga Parbat
+8126
+Qogir (K2)
+8611
+Rakaposhi
+7788
+Ulugh Muz Tagh
+7724
